@@ -19,19 +19,21 @@ public class Main {
                 // S
                 new Dit(), new Pause(), 
                 new Dit(), new Pause(), 
-                new Dit(), new Pause(), 
+                new Dit(), 
                 //
                 new Pause(), new Pause(), new Pause(),
                 // O
                 new Dah(), new Pause(), 
                 new Dah(), new Pause(), 
-                new Dah(), new Pause(),
+                new Dah(),
                 // 
                 new Pause(), new Pause(), new Pause(),
                 // S
                 new Dit(), new Pause(), 
                 new Dit(), new Pause(), 
-                new Dit(), new Pause()
+                new Dit(), 
+                // switch light off
+                new Pause()
             ));
     }
 }
