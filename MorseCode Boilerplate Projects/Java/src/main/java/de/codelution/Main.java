@@ -34,6 +34,7 @@ public class Main {
                 new Dit(), 
                 // switch light off
                 new Pause()
-            ));
+            )
+        );
     }
 }
