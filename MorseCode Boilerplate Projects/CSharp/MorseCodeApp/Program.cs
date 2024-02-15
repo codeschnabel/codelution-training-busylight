@@ -5,6 +5,7 @@ using MorseCode;
 using MorseCode.Contracts;
 
 var adapter = new LightMorseAdapter(new HttpClient());
+//var adapter = new SoundMorseAdapter();
 
 var symbols = new List<Symbol>()
 {
