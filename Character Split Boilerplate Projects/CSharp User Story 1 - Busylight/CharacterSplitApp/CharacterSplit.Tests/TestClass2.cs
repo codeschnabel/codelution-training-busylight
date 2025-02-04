@@ -8,7 +8,7 @@ namespace CharacterSplit.Tests
         [Fact]
         public void Some_Other_Example_Test()
         {
-            Assert.True(true);
+            Assert.True(false);
         }
     }
 }

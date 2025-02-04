@@ -1,4 +1,4 @@
-﻿using CharacterSplit;
+﻿
 using System;
 
 namespace CharacterSplitApp
